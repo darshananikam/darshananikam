@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there!👋 i'm Darshana
+I'M Commerce graduate (B.COM) with strong foundation in finance to a Passinate about exploring data and leveraging technology for insights. With skills in **Excel**, **Power BI**, and **SQL**,I am Enthusiastic about working on data-driven peojects that solve real - world problems.
 
-<!--
-**darshananikam/darshananikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills 
+- Microsoft Excel (Advanced)
+- Power BI (Data Visualisation and Reporting)
+- SQL (Querying and Data Mangement)
 
-Here are some ideas to get you started:
+## Interests
+ - Data analysis and visualisation
+ - Financial Data Modeling
+ - Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+ - Linkdin : https://www.linkdin.com/in/darshana-nikam-57150520b 
+ - Email id : nikamdarshana4@gmail.com
+  
+
+
